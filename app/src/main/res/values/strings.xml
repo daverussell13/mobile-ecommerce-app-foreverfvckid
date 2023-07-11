@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">foreverfvckid</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login_title">Hello There!</string>
+    <string name="sign_in">Sign In</string>
+    <string name="please_sign_in_to_your_account">Please sign in to your account</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="please_fill_in_the_form_to_continue">Please fill in the form to continue</string>
+    <string name="fullname">Full Name</string>
+    <string name="store_location">Store Location</string>
+    <string name="our_products">Our Products</string>
+    <string name="track_history">Track History</string>
+    <string name="welcome">Welcome,</string>
+    <string name="brand_image">Brand image</string>
+    <string name="product_brands">Product Brands</string>
+    <string name="new_comers">New Arrival</string>
+    <string name="product_image">Product Image</string>
+    <string name="confirmation_password">Confirmation Password</string>
+    <string name="register_success_msg">Account successfully created, please proceed to sign in section</string>
+    <string name="register_error_msg">Failed to create new account, something went wrong with our system, please try again later</string>
+    <string name="login_wrong_credentials_msg">Credentials didn\'t match any account in our system, please check your spelling and try again</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="our_store_locations">Store Locations</string>
+    <string name="store_image_preview">Store Image Preview</string>
+    <string name="back_button">Back button</string>
+    <string name="total">Total Price\u0020:\u0020</string>
+    <string name="reorder">Reorder</string>
+    <string name="product_transaction">Product transaction</string>
+    <string name="search">Search</string>
+</resources>
